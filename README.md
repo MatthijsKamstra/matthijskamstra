@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://picsum.photos/1024/300)
+
 <!--
 **MatthijsKamstra/matthijskamstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
