@@ -10,12 +10,21 @@
 
 <span style="text-align: center;">
 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![LinkedIn][3.2]][3]
+<a href="https://www.instagram.com/matthijskamstra"><img src="img/icon/instagram.svg" width="20px"></a>
+<a href="https://twitter.com/MatthijsKamstra"><img src="img/icon/twitter.svg" width="20px"></a>
+<a href="https://github.com/MatthijsKamstra"><img src="img/icon/github.svg" width="20px"></a>
+
 
 </span>
 
 <!-- Actual text -->
 
+<!--
+
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![LinkedIn][3.2]][3]
+
+
+ -->
 
 
 <!-- Icons -->
