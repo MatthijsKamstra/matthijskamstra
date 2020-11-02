@@ -8,6 +8,8 @@
 
 
 
+<img src="img/gitlab_header_1_smaller2.gif" width="1050px">
+
 <p align="center">
 <a href="https://www.instagram.com/matthijskamstra"><img src="img/icon/instagram.svg" width="20px"></a>
 <a href="https://twitter.com/MatthijsKamstra"><img src="img/icon/twitter.svg" width="20px"></a>
