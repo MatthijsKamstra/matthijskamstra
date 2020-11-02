@@ -4,7 +4,7 @@
 -->
 
 
-![](img/gitlab_header_1_smaller.gif)
+<img src="img/gitlab_header_1_smaller2.gif" width="1050px">
 
 
 
