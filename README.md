@@ -10,23 +10,25 @@
 
 <span style="text-align: center;">
 
-[![](img/icon/twitter.svg)](https://twitter.com/MatthijsKamstra)
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![LinkedIn][3.2]][3]
 
 </span>
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: img/icon/twitter.png (twitter icon without padding)
+[2.2]: img/icon/linkedin.png (LinkedIn icon without padding)
+[3.2]: img/icon/github.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/MatthijsKamstra
+[2]: https://www.linkedin.com/in/matthijskamstra/
+[3]: https://github.com/MatthijsKamstra
 
 
 
