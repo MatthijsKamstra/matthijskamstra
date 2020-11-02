@@ -9,7 +9,7 @@
 
 
 <span style="text-align: center;">
-	[![](img/icon/twitter.svg)](https://twitter.com/MatthijsKamstra)
+[![](img/icon/twitter.svg)](https://twitter.com/MatthijsKamstra)
 </span>
 
 
