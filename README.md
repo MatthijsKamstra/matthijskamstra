@@ -4,12 +4,12 @@
 -->
 
 
-![](img/gitlab_header_1_smaller2.gif)
+![](img/gitlab_header_1_smaller.gif)
 
 
 
 <span style="text-align: center;">
-	link | link2
+	[![](img/icon/twitter.svg)](https://twitter.com/MatthijsKamstra)
 </span>
 
 
