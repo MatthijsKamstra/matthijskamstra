@@ -3,9 +3,8 @@
 ### Hi there 👋
 -->
 
-<span style="border:1px solid pink">
+
 ![](img/gitlab_header_1_smaller2.gif)
-</span>
 
 
 
