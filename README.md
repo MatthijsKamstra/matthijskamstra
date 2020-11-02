@@ -1,6 +1,14 @@
-### Hi there 👋
+<!--
 
-![](https://picsum.photos/1024/300)
+### Hi there 👋
+-->
+
+<span style="border:1px solid pink">
+![](img/gitlab_header_1_smaller2.gif)
+</span>
+
+
+
 
 <!--
 **MatthijsKamstra/matthijskamstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
